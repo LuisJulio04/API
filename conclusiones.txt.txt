@@ -1,1 +1,0 @@
-Durante el ejercicio de testeo de los servicios REST en la página petstore.swagger.io, los resultados revelaron que los servicios de agregar, buscar y actualizar mascotas funcionan correctamente, sin encontrar problemas significativos. En general, los servicios REST en petstore.swagger.io demostraron ser confiables y estables en términos de funcionalidad.
